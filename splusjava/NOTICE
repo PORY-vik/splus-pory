@@ -1,0 +1,11 @@
+splusjava
+=========
+
+Ported to Java by Pory Viking.
+
+This project is a derivative work of SPlusthon (https://github.com/shayanheidari01/SPlusthon),
+an MTProto client for Soroush Plus by shayanheidari01, licensed under the GNU General Public
+License v3.0. SPlusthon is itself based on Telethon.
+
+As required by the GPLv3 (see LICENSE), this notice and the original license are kept intact in
+this derivative work.
